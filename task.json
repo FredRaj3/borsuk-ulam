@@ -55,7 +55,7 @@
       "title": "Borsuk–Ulam for the circle",
       "statementFile": "CircleCase.lean",
       "theorem": "CircleCase.borsuk_ulam_circle",
-      "criteriaCommit": "PLACEHOLDER"
+      "criteriaCommit": "cf71e851e2d7bb2910a8b8283993bf247488e29a"
     },
     {
       "board": "BorsukUlam",
@@ -64,7 +64,7 @@
       "title": "The Borsuk–Ulam theorem",
       "statementFile": "BorsukUlam.lean",
       "theorem": "BorsukUlam.borsuk_ulam",
-      "criteriaCommit": "PLACEHOLDER"
+      "criteriaCommit": "cf71e851e2d7bb2910a8b8283993bf247488e29a"
     },
     {
       "board": "HamSandwich",
@@ -73,7 +73,7 @@
       "title": "The ham sandwich theorem",
       "statementFile": "HamSandwich.lean",
       "theorem": "HamSandwich.ham_sandwich",
-      "criteriaCommit": "PLACEHOLDER"
+      "criteriaCommit": "cf71e851e2d7bb2910a8b8283993bf247488e29a"
     }
   ],
   "submission": {
