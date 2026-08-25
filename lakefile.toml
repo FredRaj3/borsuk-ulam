@@ -1,0 +1,16 @@
+name = "borsuk-ulam"
+defaultTargets = ["CircleCase", "BorsukUlam", "HamSandwich"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.34.0-rc1"
+
+[[lean_lib]]
+name = "CircleCase"
+
+[[lean_lib]]
+name = "BorsukUlam"
+
+[[lean_lib]]
+name = "HamSandwich"
