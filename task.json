@@ -50,8 +50,8 @@
   "tasks": [
     {
       "board": "CircleCase",
-      "id": "unposted",
-      "taskUrl": "unposted",
+      "id": "01a03b37-95d5-7f65-9479-3537ea5896fe",
+      "taskUrl": "https://problem.market/tasks/01a03b37-95d5-7f65-9479-3537ea5896fe",
       "title": "Borsuk–Ulam for the circle",
       "statementFile": "CircleCase.lean",
       "theorem": "CircleCase.borsuk_ulam_circle",
@@ -59,8 +59,8 @@
     },
     {
       "board": "BorsukUlam",
-      "id": "unposted",
-      "taskUrl": "unposted",
+      "id": "01a03b37-e1cc-7361-a0de-c7d2eefab508",
+      "taskUrl": "https://problem.market/tasks/01a03b37-e1cc-7361-a0de-c7d2eefab508",
       "title": "The Borsuk–Ulam theorem",
       "statementFile": "BorsukUlam.lean",
       "theorem": "BorsukUlam.borsuk_ulam",
@@ -68,8 +68,8 @@
     },
     {
       "board": "HamSandwich",
-      "id": "unposted",
-      "taskUrl": "unposted",
+      "id": "01a03b38-2da1-7aab-8125-34dc7421feed",
+      "taskUrl": "https://problem.market/tasks/01a03b38-2da1-7aab-8125-34dc7421feed",
       "title": "The ham sandwich theorem",
       "statementFile": "HamSandwich.lean",
       "theorem": "HamSandwich.ham_sandwich",
